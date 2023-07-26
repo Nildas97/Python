@@ -1,0 +1,19 @@
+INFO 2023-07-25 17:32:18,472 root this number entered by user is 3 and 0
+INFO 2023-07-25 17:32:18,473 root this number entered by user is 3 and 0
+INFO 2023-07-25 20:19:08,356 root this number entered by user is 3 and 0
+INFO 2023-07-25 20:19:08,357 root we are into function
+ERROR 2023-07-25 20:19:08,357 root division by zero
+Traceback (most recent call last):
+  File ".\test2.py", line 14, in divide
+    div = a / b
+ZeroDivisionError: division by zero
+INFO 2023-07-25 20:20:07,778 root this number entered by user is 3 and 0
+INFO 2023-07-25 20:20:07,778 root we are into function
+ERROR 2023-07-25 20:20:07,778 root division by zero
+Traceback (most recent call last):
+  File ".\test2.py", line 14, in divide
+    div = a / b
+ZeroDivisionError: division by zero
+INFO 2023-07-25 20:20:45,872 root this number entered by user is 3 and 4
+INFO 2023-07-25 20:20:45,872 root we are into function
+INFO 2023-07-25 20:20:45,872 root we have completed a division operation

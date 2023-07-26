@@ -1,0 +1,16 @@
+INFO 2023-07-25 20:33:51,859 root i am trying to read a file
+ERROR 2023-07-25 20:33:51,860 root [Errno 2] No such file or directory: 'nil.txt'
+Traceback (most recent call last):
+  File ".\test3.py", line 11, in <module>
+    with open("nil.txt", "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'nil.txt'
+INFO 2023-07-25 20:34:34,943 root i am trying to read a file
+CRITICAL 2023-07-25 20:34:34,943 root situation is critical
+ERROR 2023-07-25 20:34:34,944 root [Errno 2] No such file or directory: 'nil.txt'
+Traceback (most recent call last):
+  File ".\test3.py", line 11, in <module>
+    with open("nil.txt", "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'nil.txt'
+INFO 2023-07-25 20:34:52,072 root i am trying to read a file
+CRITICAL 2023-07-25 20:34:52,076 root situation is critical
+ERROR 2023-07-25 20:34:52,076 root [Errno 2] No such file or directory: 'nil.txt'
